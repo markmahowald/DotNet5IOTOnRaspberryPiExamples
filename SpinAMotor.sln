@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpinAMotor", "SpinAMotor\SpinAMotor.csproj", "{206B38D4-43D8-45D3-BE68-B73D9A92FA54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallSpinAMotor", "CallSpinAMotor\CallSpinAMotor.csproj", "{3BB9DD75-4801-4A40-81B5-6B7A06B32F5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{206B38D4-43D8-45D3-BE68-B73D9A92FA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206B38D4-43D8-45D3-BE68-B73D9A92FA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206B38D4-43D8-45D3-BE68-B73D9A92FA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206B38D4-43D8-45D3-BE68-B73D9A92FA54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB9DD75-4801-4A40-81B5-6B7A06B32F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB9DD75-4801-4A40-81B5-6B7A06B32F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB9DD75-4801-4A40-81B5-6B7A06B32F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB9DD75-4801-4A40-81B5-6B7A06B32F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DFA9A0E-C6F9-42D4-9179-A6962CC3837B}
+	EndGlobalSection
+EndGlobal
